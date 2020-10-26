@@ -2,3 +2,4 @@ Django==2.2.16
 djangorestframework
 markdown
 django-filter
+flake>=3.6.0,<3.7.0
